@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test login with username empty and password</description>
+   <name>Test_login_5</name>
+   <tag>login</tag>
+   <comment></comment>
+   <testCaseGuid>1b88b7dd-5ed3-4de4-be36-e3379554c1a4</testCaseGuid>
+</TestCaseEntity>

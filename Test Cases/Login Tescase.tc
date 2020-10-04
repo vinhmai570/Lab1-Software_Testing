@@ -5,4 +5,18 @@
    <tag>login</tag>
    <comment></comment>
    <testCaseGuid>3c758307-7678-433e-a147-d509ab56949f</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>40c75f86-30fb-4d7a-ad24-5b4fb3322597</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>9491d448-2534-4b85-8014-cf41ca37ae82</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
 </TestCaseEntity>
